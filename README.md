@@ -2,7 +2,7 @@
 <p align="center">Senior software engineer and a <a href="http://exam.laravelcert.com/is/levan-velijanashvili/certified-since/2022-09-29">certified</a> Laravel developer with 11+ years of experience.</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Stichoza&theme=dark&hide_border=true&border_radius=30&exclude_days=Sun%2CSat&card_width=600&background=000000a0&excludeDaysLabel=00000000&stroke=00000000">
+  <img src="https://streak-stats.demolab.com?user=Stichoza&theme=dark&hide_border=true&border_radius=30&exclude_days=Sun%2CSat&card_width=600&background=22272EA0&excludeDaysLabel=00000000&stroke=00000000">
 </div>
 
 <details align="center">
