@@ -26,14 +26,14 @@
 </p>
 
 <h4>Follow Me</h4>
-<a href="https://www.instagram.com/stichoza"><img src="https://s.magecdn.com/social/mw-instagram.svg" height="28"></a> &nbsp;
-<a href="https://www.facebook.com/stichoza"><img src="https://s.magecdn.com/social/mw-facebook.svg" height="28"></a> &nbsp;
-<a href="https://x.com/Stichoza"><img src="https://s.magecdn.com/social/mw-x.svg" height="28"></a> &nbsp;
-<a href="https://linkedin.com/in/stichoza"><img src="https://s.magecdn.com/social/mw-linkedin.svg" height="28"></a> &nbsp;
-<a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://s.magecdn.com/social/mw-stackoverflow.svg" height="28"></a> &nbsp;
-<a href="https://medium.com/@stichoza"><img src="https://s.magecdn.com/social/mw-medium.svg" height="28"></a> &nbsp;
+<a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/mw-instagram.svg" height="28"></a> &nbsp;
+<a href="https://www.facebook.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/mw-facebook.svg" height="28"></a> &nbsp;
+<a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/mw-x.svg" height="28"></a> &nbsp;
+<a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/mw-linkedin.svg" height="28"></a> &nbsp;
+<a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/mw-stackoverflow.svg" height="28"></a> &nbsp;
+<a href="https://medium.com/@stichoza" target="_blank"><img src="https://s.magecdn.com/social/mw-medium.svg" height="28"></a> &nbsp;
 
 <h4>My Projects & Start-ups</h4>
 
-<a href="https://metaoutdoor.com/?ref=github.com/Stichoza"><img src="https://avatars.githubusercontent.com/u/36438095?s=200&v=4" height="48"></a> &nbsp;
-<a href="https://bina24.ge/?ref=github.com/Stichoza"><img src="https://avatars.githubusercontent.com/u/45656438?s=200&v=4" height="48"></a> &nbsp;
+<a href="https://metaoutdoor.com/?ref=github.com/Stichoza" target="_blank"><img src="https://avatars.githubusercontent.com/u/36438095?s=200&v=4" height="48"></a> &nbsp;
+<a href="https://bina24.ge/?ref=github.com/Stichoza" target="_blank"><img src="https://avatars.githubusercontent.com/u/45656438?s=200&v=4" height="48"></a> &nbsp;
