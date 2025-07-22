@@ -92,8 +92,8 @@
     </td>
     <td width="55%">Flipper Zero application for viewing nearby files sorted by distance from your GPS location.</td>
     <td width="20%">
-      <a href="https://github.com/Stichoza/flipper-nearby-files">
-        <img src="https://img.shields.io/github/stars/Stichoza/flipper-nearby-files" alt="GitHub stars" />
+      <a href="https://github.com/Stichoza/flipper-nearby-files/releases/latest">
+        <img src="https://img.shields.io/github/v/release/Stichoza/flipper-nearby-files?label=download" alt="GitHub release" />
       </a>
     </td>
   </tr>
@@ -103,8 +103,8 @@
     </td>
     <td width="55%">Visualize Flipper Zero signal recordings on an interactive map.</td>
     <td width="20%">
-      <a href="https://github.com/Stichoza/flipper-map">
-        <img src="https://img.shields.io/github/stars/Stichoza/flipper-map?style=social" alt="GitHub stars" />
+      <a href="https://flipper-map.stichoza.com">
+        <img src="https://img.shields.io/badge/open-flipper_map-orange" alt="Live app" />
       </a>
     </td>
   </tr>
