@@ -53,7 +53,7 @@
     <td width="25%">
       <a href="https://github.com/Stichoza/nbg-currency"><b>nbg-currency</b></a>
     </td>
-    <td width="55%">National Bank of Georgia (NBG) currency API wrapper for PHP.</td>
+    <td width="55%">Framework-agnostic PHP package for National Bank of Georgia (NBG) currency API.</td>
     <td width="20%">
       <a href="https://packagist.org/packages/stichoza/nbg-currency">
         <img src="https://img.shields.io/packagist/dt/Stichoza/nbg-currency.svg" alt="Total Downloads" />
@@ -116,7 +116,7 @@
     <td width="25%">
       <a href="https://github.com/Stichoza/font-larisome"><b>font-larisome</b></a>
     </td>
-    <td width="55%">Iconic font for Georgian Lari inspired by Font-Awesome.</td>
+    <td width="55%">An icon font for Georgian Lari currency symbol inspired by Font-Awesome.</td>
     <td width="20%">
       <a href="https://www.npmjs.com/package/font-larisome">
         <img src="https://img.shields.io/npm/dt/font-larisome.svg" alt="Total Downloads" />
