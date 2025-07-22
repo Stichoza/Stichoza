@@ -116,7 +116,7 @@
     <td width="25%">
       <a href="https://github.com/Stichoza/font-larisome"><b>font-larisome</b></a>
     </td>
-    <td width="55%">An icon font for Georgian Lari currency symbol inspired by Font-Awesome.</td>
+    <td width="55%">An icon font for Georgian Lari currency symbol supporting different styles. Inspired by Font-Awesome.</td>
     <td width="20%">
       <a href="https://www.npmjs.com/package/font-larisome">
         <img src="https://img.shields.io/npm/dt/font-larisome.svg" alt="Total Downloads" />
