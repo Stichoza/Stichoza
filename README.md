@@ -90,7 +90,7 @@
     <td width="25%">
       <a href="https://github.com/Stichoza/flipper-nearby-files"><b>flipper-nearby-files</b></a>
     </td>
-    <td width="55%">Share files between devices nearby using Flipper.</td>
+    <td width="55%">Flipper Zero application for viewing nearby files sorted by distance from your GPS location.</td>
     <td width="20%">
       <a href="https://github.com/Stichoza/flipper-nearby-files">
         <img src="https://img.shields.io/github/stars/Stichoza/flipper-nearby-files" alt="GitHub stars" />
@@ -101,7 +101,7 @@
     <td width="25%">
       <a href="https://github.com/Stichoza/flipper-map"><b>flipper-map</b></a>
     </td>
-    <td width="55%">Visualize Flipper Zero signal recordings on a map.</td>
+    <td width="55%">Visualize Flipper Zero signal recordings on an interactive map.</td>
     <td width="20%">
       <a href="https://github.com/Stichoza/flipper-map">
         <img src="https://img.shields.io/github/stars/Stichoza/flipper-map?style=social" alt="GitHub stars" />
