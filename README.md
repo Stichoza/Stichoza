@@ -28,7 +28,6 @@
 <a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-x.svg" height="28"></a> &nbsp;
 <a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-linkedin.svg" height="28"></a> &nbsp;
 <a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-stackoverflow.svg" height="28"></a> &nbsp;
-<a href="https://medium.com/@stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-medium.svg" height="28"></a> &nbsp;
 
 <h4>My Projects & Start-ups</h4>
 
