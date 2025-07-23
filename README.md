@@ -13,7 +13,7 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuesjs/vuejs-original.svg" height="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32"></a> &nbsp;
