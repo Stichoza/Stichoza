@@ -22,7 +22,6 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"></a> &nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="32"></a> &nbsp;
 
 <h4>Follow Me</h4>
 <a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-instagram.svg" height="28"></a> &nbsp;
