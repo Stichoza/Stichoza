@@ -25,7 +25,6 @@
 
 <h4>Follow Me</h4>
 <a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-instagram.svg" height="28"></a> &nbsp;
-<a href="https://www.facebook.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-facebook.svg" height="28"></a> &nbsp;
 <a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-x.svg" height="28"></a> &nbsp;
 <a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-linkedin.svg" height="28"></a> &nbsp;
 <a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-stackoverflow.svg" height="28"></a> &nbsp;
