@@ -82,6 +82,21 @@
   </tr>
 </table>
 
+<h4>NPM Packages</h4>
+<table width="100%">
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/Stichoza/font-larisome"><b>font-larisome</b></a>
+    </td>
+    <td width="55%">An icon font for Georgian Lari currency symbol supporting different styles. Inspired by Font-Awesome.</td>
+    <td width="20%">
+      <a href="https://www.npmjs.com/package/font-larisome">
+        <img src="https://img.shields.io/npm/dt/font-larisome.svg" alt="Total Downloads" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h4>Flipper Apps</h4>
 <table width="100%">
   <tr>
@@ -103,32 +118,6 @@
     <td width="20%">
       <a href="https://flipper-map.stichoza.com">
         <img src="https://img.shields.io/badge/open-flipper_map-orange" alt="Live app" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h4>Other</h4>
-<table width="100%">
-  <tr>
-    <td width="25%">
-      <a href="https://github.com/Stichoza/font-larisome"><b>font-larisome</b></a>
-    </td>
-    <td width="55%">An icon font for Georgian Lari currency symbol supporting different styles. Inspired by Font-Awesome.</td>
-    <td width="20%">
-      <a href="https://www.npmjs.com/package/font-larisome">
-        <img src="https://img.shields.io/npm/dt/font-larisome.svg" alt="Total Downloads" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%">
-      <a href="https://github.com/Stichoza/awesome-georgia"><b>awesome-georgia</b></a>
-    </td>
-    <td width="55%">A curated list of awesome libraries and packages related to Georgia.</td>
-    <td width="20%">
-      <a href="https://github.com/Stichoza/awesome-georgia">
-        <img src="https://img.shields.io/github/stars/Stichoza/awesome-georgia?style=social" alt="GitHub stars" />
       </a>
     </td>
   </tr>
