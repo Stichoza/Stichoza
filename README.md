@@ -1,12 +1,8 @@
 <h3 align="center">Hi! 👋 I'm Stichoza</h2>
 <p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 13+ years of experience.</p>
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow">
-  </a>
-  <a href="https://stackoverflow.com/users/1115262/stichoza">
-    <img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange">
-  </a>
+  <a href="#"><img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow"></a>
+  <a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange"></a>
 </p>
 
 ---
