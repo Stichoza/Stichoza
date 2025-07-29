@@ -121,7 +121,7 @@
     <td width="55%">Visualize Flipper Zero signal recordings on an interactive map.</td>
     <td width="20%">
       <a href="https://flipper-map.stichoza.com">
-        <img src="https://img.shields.io/badge/open-flipper_map-orange?style=for-the-badge" alt="Live app" />
+        <img src="https://img.shields.io/badge/try-flipper_map-orange?style=for-the-badge" alt="Live app" />
       </a>
     </td>
   </tr>
