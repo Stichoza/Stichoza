@@ -1,5 +1,9 @@
 <h3 align="center">Hi! 👋 I'm Stichoza</h2>
 <p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 13+ years of experience.</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow">
+  <img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange">
+</p>
 
 ---
 <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">
@@ -43,7 +47,7 @@
     <td width="55%">Free Google Translate API PHP Package.</td>
     <td width="20%">
       <a href="https://packagist.org/packages/stichoza/google-translate-php">
-        <img src="https://img.shields.io/packagist/dt/Stichoza/google-translate-php.svg" alt="Total Downloads" />
+        <img src="https://img.shields.io/packagist/dt/Stichoza/google-translate-php.svg?style=for-the-badge" alt="Total Downloads" />
       </a>
     </td>
   </tr>
@@ -54,7 +58,7 @@
     <td width="55%">Framework-agnostic PHP package for National Bank of Georgia (NBG) currency API.</td>
     <td width="20%">
       <a href="https://packagist.org/packages/stichoza/nbg-currency">
-        <img src="https://img.shields.io/packagist/dt/Stichoza/nbg-currency.svg" alt="Total Downloads" />
+        <img src="https://img.shields.io/packagist/dt/Stichoza/nbg-currency.svg?style=for-the-badge" alt="Total Downloads" />
       </a>
     </td>
   </tr>
@@ -65,7 +69,7 @@
     <td width="55%">Laravel package for interacting with Jira Webhooks.</td>
     <td width="20%">
       <a href="https://packagist.org/packages/stichoza/jira-webhooks-laravel">
-        <img src="https://img.shields.io/packagist/dt/Stichoza/jira-webhooks-laravel.svg" alt="Total Downloads" />
+        <img src="https://img.shields.io/packagist/dt/Stichoza/jira-webhooks-laravel.svg?style=for-the-badge" alt="Total Downloads" />
       </a>
     </td>
   </tr>
@@ -76,7 +80,7 @@
     <td width="55%">Add Laravel support to CodeRunner app.</td>
     <td width="20%">
       <a href="https://packagist.org/packages/stichoza/laravel-coderunner">
-        <img src="https://img.shields.io/packagist/dt/Stichoza/laravel-coderunner.svg" alt="Total Downloads" />
+        <img src="https://img.shields.io/packagist/dt/Stichoza/laravel-coderunner.svg?style=for-the-badge" alt="Total Downloads" />
       </a>
     </td>
   </tr>
@@ -91,7 +95,7 @@
     <td width="55%">An icon font for Georgian Lari currency symbol supporting different styles. Inspired by Font-Awesome.</td>
     <td width="20%">
       <a href="https://www.npmjs.com/package/font-larisome">
-        <img src="https://img.shields.io/npm/dt/font-larisome.svg" alt="Total Downloads" />
+        <img src="https://img.shields.io/npm/dt/font-larisome.svg?style=for-the-badge" alt="Total Downloads" />
       </a>
     </td>
   </tr>
@@ -106,7 +110,7 @@
     <td width="55%">Flipper Zero application for viewing nearby files sorted by distance from your GPS location.</td>
     <td width="20%">
       <a href="https://github.com/Stichoza/flipper-nearby-files/releases/latest">
-        <img src="https://img.shields.io/github/v/release/Stichoza/flipper-nearby-files?label=download" alt="GitHub release" />
+        <img src="https://img.shields.io/github/v/release/Stichoza/flipper-nearby-files?label=download&style=for-the-badge" alt="GitHub release" />
       </a>
     </td>
   </tr>
@@ -117,7 +121,7 @@
     <td width="55%">Visualize Flipper Zero signal recordings on an interactive map.</td>
     <td width="20%">
       <a href="https://flipper-map.stichoza.com">
-        <img src="https://img.shields.io/badge/open-flipper_map-orange" alt="Live app" />
+        <img src="https://img.shields.io/badge/open-flipper_map-orange?style=for-the-badge" alt="Live app" />
       </a>
     </td>
   </tr>
