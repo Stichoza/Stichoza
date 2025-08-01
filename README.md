@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow"></a>
   <a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange"></a>
+  <a href="#js-contribution-activity-description"><img src="https://badges.strrl.dev/contributions/yearly/Stichoza?style=for-the-badge"></a>
 </p>
 
 ---
