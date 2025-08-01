@@ -112,13 +112,16 @@
       <a href="https://github.com/Stichoza/flipper-nearby-files/releases/latest">
         <img src="https://img.shields.io/github/v/release/Stichoza/flipper-nearby-files?label=download&style=for-the-badge" alt="GitHub release" />
       </a>
+      <a href="https://lab.flipper.net/apps/nearby_files">
+        <img src="https://img.shields.io/badge/get-app_catalog-orange?style=for-the-badge" alt="Flipper App Catalog" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="25%">
       <a href="https://github.com/Stichoza/flipper-map"><b>flipper-map</b></a>
     </td>
-    <td width="55%">Visualize Flipper Zero signal recordings on an interactive map.</td>
+    <td width="55%">Visualize Flipper Zero signal recordings on an interactive map: <a href="https://flipper-map.stichoza.com">flipper-map.stichoza.com</a></td>
     <td width="20%">
       <a href="https://flipper-map.stichoza.com">
         <img src="https://img.shields.io/badge/try-flipper_map-orange?style=for-the-badge" alt="Live app" />
