@@ -1,4 +1,4 @@
-<h3 align="center">Hi! 👋 I'm Stichoza</h2>
+<h3 align="center">Hi! 👋 I'm Stichoza</h3>
 <p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 13+ years of experience.</p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow"></a>
@@ -9,28 +9,28 @@
 
 ---
 
-<h3>Tech Stack</h3>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32"></a> &nbsp;
+<h4>Tech Stack</h4>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" width="32"></a> &nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" width="32"></a> &nbsp;
 
 <h4>Follow Me</h4>
-<a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-instagram.svg" height="28"></a> &nbsp;
-<a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-x.svg" height="28"></a> &nbsp;
-<a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-linkedin.svg" height="28"></a> &nbsp;
-<a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-stackoverflow.svg" height="28"></a> &nbsp;
+<a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-instagram.png" height="28"></a> &nbsp;
+<a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-x.png" height="28"></a> &nbsp;
+<a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-linkedin.png" height="28"></a> &nbsp;
+<a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-stackoverflow.png" height="28"></a> &nbsp;
 
 <h4>My Projects & Start-ups</h4>
 
