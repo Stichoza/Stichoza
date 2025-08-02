@@ -27,10 +27,10 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" width="32"></a> &nbsp;
 
 <h4>Follow Me</h4>
-<a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-instagram.png" height="28"></a> &nbsp;
-<a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-x.png" height="28"></a> &nbsp;
-<a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-linkedin.png" height="28"></a> &nbsp;
-<a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/64w/tc-stackoverflow.png" height="28"></a> &nbsp;
+<a href="https://www.instagram.com/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-instagram.svg" height="28" width="28"></a> &nbsp;
+<a href="https://x.com/Stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-x.svg" height="28" width="28"></a> &nbsp;
+<a href="https://linkedin.com/in/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-linkedin.svg" height="28" width="28"></a> &nbsp;
+<a href="https://stackoverflow.com/users/1115262/stichoza" target="_blank"><img src="https://s.magecdn.com/social/tc-stackoverflow.svg" height="28" width="28"></a> &nbsp;
 
 <h4>My Projects & Start-ups</h4>
 
