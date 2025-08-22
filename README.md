@@ -4,7 +4,7 @@
   <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3"><img src="https://img.shields.io/badge/laravel-certified-red?style=for-the-badge&logo=laravel&logoColor=%23EF1708&color=%23EF1708"></a>
   <a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange"></a>
   <a href="#"><img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow"></a>
-  <a href="#js-contribution-activity-description"><img src="https://badges.strrl.dev/contributions/yearly/Stichoza?style=for-the-badge&label=yearly%20contributions"></a>
+  <a href="#js-contribution-activity-description"><img src="https://badges.strrl.dev/contributions/yearly/Stichoza?style=for-the-badge&label=yearly%20contributions&logo=github"></a>
 </p>
 
 ---
