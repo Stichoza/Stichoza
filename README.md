@@ -1,5 +1,5 @@
 <h3 align="center">Hi! 👋 I'm Stichoza</h3>
-<p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 15 years of coding experience.</p>
+<p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 15+ years of coding experience (10+ in Laravel).</p>
 <p align="center">
   <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3"><img src="https://img.shields.io/badge/laravel-certified-red?style=for-the-badge&logo=laravel&logoColor=%23EF1708&color=%23EF1708"></a>
   <a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange"></a>
