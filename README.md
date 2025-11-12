@@ -128,3 +128,7 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center">See more details on <a href="https://stichoza.com">stichoza.com ↗</a></h3>
