@@ -120,7 +120,7 @@
     <td width="25%">
       <a href="https://apps.apple.com/us/app/flipper-map/id6759526315"><b>Flipper Map</b></a> 
     </td>
-    <td width="55%">iOS version of Flipper Map. Interactive map of Sub-GHz files. Packed with more features than web version.</td>
+    <td width="55%">iOS/iPad/macOS version of Flipper Map with support of Apple Watch, CarPlay, Siri and Shortcuts. Packed with more features than web version.</td>
     <td width="20%">
       <a href="https://apps.apple.com/us/app/flipper-map/id6759526315">
         <img src="https://img.shields.io/badge/get-_app_store-black?style=for-the-badge" alt="Download from App Store" />
