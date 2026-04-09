@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-<h4>Flipper Apps</h4>
+<h4>Flipper Zero</h4>
 <table width="100%">
   <tr>
     <td width="25%">
@@ -113,6 +113,17 @@
     <td width="20%">
       <a href="https://flipper-map.stichoza.com">
         <img src="https://img.shields.io/badge/try-flipper_map-orange?style=for-the-badge" alt="Live app" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <a href="https://apps.apple.com/us/app/flipper-map/id6759526315"><b>Flipper Map</b></a> 
+    </td>
+    <td width="55%">iOS version of Flipper Map. Interactive map of Sub-GHz files. Packed with more features than web version.</td>
+    <td width="20%">
+      <a href="https://apps.apple.com/us/app/flipper-map/id6759526315">
+        <img src="https://img.shields.io/badge/get-_app_store-black?style=for-the-badge" alt="Download from App Store" />
       </a>
     </td>
   </tr>
