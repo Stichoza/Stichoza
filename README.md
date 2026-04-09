@@ -97,11 +97,8 @@
     </td>
     <td width="55%">Flipper Zero application for viewing nearby files sorted by distance from your GPS location.</td>
     <td width="20%">
-      <a href="https://github.com/Stichoza/flipper-nearby-files/releases/latest">
-        <img src="https://img.shields.io/github/v/release/Stichoza/flipper-nearby-files?label=download&style=for-the-badge" alt="GitHub release" />
-      </a>
       <a href="https://lab.flipper.net/apps/nearby_files">
-        <img src="https://img.shields.io/badge/get-app_catalog-orange?style=for-the-badge" alt="Flipper App Catalog" />
+        <img src="https://img.shields.io/badge/get-flipper_apps-orange?style=for-the-badge" alt="Flipper App Catalog" />
       </a>
     </td>
   </tr>
