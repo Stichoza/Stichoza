@@ -1,17 +1,14 @@
-<h1 align="center">
-  Hi! 👋 I'm Stichoza
-</h1>
-<p align="center"><strong>Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 15+ years of coding experience (10+ in Laravel).</strong></p>
+<h3 align="center">Hi! 👋 I'm Stichoza</h3>
+<p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 15+ years of coding experience (10+ in Laravel).</p>
 <p align="center">
   <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3"><img src="https://img.shields.io/badge/laravel-certified-red?style=for-the-badge&logo=laravel&logoColor=%23EF1708&color=%23EF1708"></a>
   <a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange"></a>
   <a href="#"><img src="https://img.shields.io/github/stars/Stichoza?style=for-the-badge&logo=github&color=yellow"></a>
   <a href="#js-contribution-activity-description"><img src="https://badges.strrl.dev/contributions/yearly/Stichoza?style=for-the-badge&label=yearly%20contributions&logo=github"></a>
 </p>
-
 <p align="center"><a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,javascript,typescript,nodejs,vuejs,adonis,sass,tailwind,bootstrap,mysql,postgres,redis"></a></p>
 
----
+<h2></h2>
 
 <h3><a href="#"><img src="https://skillicons.dev/icons?i=php" height="16"></a> PHP Packages</h3>
 <table width="100%">
@@ -39,7 +36,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/jira-webhooks-laravel"><b>jira-webhooks-laravel</b> <img src="https://skillicons.dev/icons?i=php,laravel" height="16"></a>
+      <a href="https://github.com/Stichoza/jira-webhooks-laravel"><b>jira-webhooks-laravel</b> <img src="https://skillicons.dev/icons?i=laravel" height="16"></a>
     </td>
     <td width="55%">Laravel package for interacting with Jira Webhooks.</td>
     <td width="20%">
@@ -50,7 +47,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/laravel-coderunner"><b>laravel-coderunner</b> <img src="https://skillicons.dev/icons?i=php,laravel" height="16"></a>
+      <a href="https://github.com/Stichoza/laravel-coderunner"><b>laravel-coderunner</b> <img src="https://skillicons.dev/icons?i=laravel" height="16"></a>
     </td>
     <td width="55%">Add Laravel support to CodeRunner app.</td>
     <td width="20%">
