@@ -10,6 +10,18 @@
 
 <h2></h2>
 
+<h5 align="center">
+  <a href="stichoza-public-key.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GnuPG-Logo.svg/250px-GnuPG-Logo.svg.png" height="12"> PGP Public Key</a>
+  &bull;
+  <a href="https://stichoza.com"><img src="https://commons.wikimedia.org/wiki/File:Safari-icon-1024.png" height="12"> Personal Website</a>
+  &bull;
+  <a href="http://stichoza34arztdqeis65bj5hqflzuxcw7iaues3lhv6dv35qe3rq6qd.onion/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/500px-Tor_Browser_icon.svg.png" height="12"> Onion Version</a>
+  &bull;
+  <a href="https://stichoza.eth"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ethereum_Logo.png/500px-Ethereum_Logo.png" height="12"> Web3 Version</a>
+</h5>
+
+<h2></h2>
+
 <h3><a href="#"><img src="https://skillicons.dev/icons?i=php" height="16"></a> PHP Packages</h3>
 <table width="100%">
   <tr>
