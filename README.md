@@ -1,5 +1,7 @@
-<h3 align="center">Hi! 👋 I'm Stichoza</h3>
-<p align="center">Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 15+ years of coding experience (10+ in Laravel).</p>
+<h1 align="center">
+  Hi! 👋 I'm Stichoza
+</h1>
+<p align="center"><strong>Senior software engineer and a <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3">certified</a> Laravel developer with 15+ years of coding experience (10+ in Laravel).</strong></p>
 <p align="center">
   <a href="https://verifier.certificationforlaravel.org/befe186a-d233-4d63-a197-c8ac14cb88d3"><img src="https://img.shields.io/badge/laravel-certified-red?style=for-the-badge&logo=laravel&logoColor=%23EF1708&color=%23EF1708"></a>
   <a href="https://stackoverflow.com/users/1115262/stichoza"><img src="https://img.shields.io/stackexchange/stackoverflow.com/r/1115262?style=for-the-badge&logo=stackoverflow&label=Reputation&color=orange"></a>
@@ -7,30 +9,15 @@
   <a href="#js-contribution-activity-description"><img src="https://badges.strrl.dev/contributions/yearly/Stichoza?style=for-the-badge&label=yearly%20contributions&logo=github"></a>
 </p>
 
+<p align="center"><a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,javascript,typescript,nodejs,vuejs,adonis,sass,tailwind,bootstrap,mysql,postgres,redis"></a></p>
+
 ---
 
-<h4>Tech Stack</h4>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" width="32"></a> &nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" width="32"></a> &nbsp;
-
-<h4>PHP Packages</h4>
+<h3><a href="#"><img src="https://skillicons.dev/icons?i=php" height="16"></a> PHP Packages</h3>
 <table width="100%">
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/google-translate-php"><b>google-translate-php</b></a>
+      <a href="https://github.com/Stichoza/google-translate-php"><b>google-translate-php</b> <img src="https://skillicons.dev/icons?i=php" height="16"></a>
     </td>
     <td width="55%">Free Google Translate API PHP Package.</td>
     <td width="20%">
@@ -41,7 +28,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/nbg-currency"><b>nbg-currency</b></a>
+      <a href="https://github.com/Stichoza/nbg-currency"><b>nbg-currency</b> <img src="https://skillicons.dev/icons?i=php" height="16"></a>
     </td>
     <td width="55%">Framework-agnostic PHP package for National Bank of Georgia (NBG) currency API.</td>
     <td width="20%">
@@ -52,7 +39,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/jira-webhooks-laravel"><b>jira-webhooks-laravel</b></a>
+      <a href="https://github.com/Stichoza/jira-webhooks-laravel"><b>jira-webhooks-laravel</b> <img src="https://skillicons.dev/icons?i=php,laravel" height="16"></a>
     </td>
     <td width="55%">Laravel package for interacting with Jira Webhooks.</td>
     <td width="20%">
@@ -63,7 +50,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/laravel-coderunner"><b>laravel-coderunner</b></a>
+      <a href="https://github.com/Stichoza/laravel-coderunner"><b>laravel-coderunner</b> <img src="https://skillicons.dev/icons?i=php,laravel" height="16"></a>
     </td>
     <td width="55%">Add Laravel support to CodeRunner app.</td>
     <td width="20%">
@@ -74,11 +61,11 @@
   </tr>
 </table>
 
-<h4>NPM Packages</h4>
+<h3><a href="#"><img src="https://skillicons.dev/icons?i=npm&theme=light" height="16"></a> NPM Packages</h3>
 <table width="100%">
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/font-larisome"><b>font-larisome</b></a>
+      <a href="https://github.com/Stichoza/font-larisome"><b>font-larisome</b> <img src="https://skillicons.dev/icons?i=sass,css,js" height="16"></a>
     </td>
     <td width="55%">An icon font for Georgian Lari currency symbol supporting different styles. Inspired by Font-Awesome.</td>
     <td width="20%">
@@ -89,11 +76,11 @@
   </tr>
 </table>
 
-<h4>Flipper Zero</h4>
+<h3><a href="#"><img src="https://flipper.net/cdn/shop/files/common_logo_favicon.png?crop=center&height=32&v=1765368570&width=32" height="16"></a> Flipper Zero</h3>
 <table width="100%">
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/flipper-nearby-files"><b>flipper-nearby-files</b></a>
+      <a href="https://github.com/Stichoza/flipper-nearby-files"><b>flipper-nearby-files</b> <img src="https://skillicons.dev/icons?i=c" height="16"></a>
     </td>
     <td width="55%">Flipper Zero application for viewing nearby files sorted by distance from your GPS location.</td>
     <td width="20%">
@@ -104,7 +91,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/Stichoza/flipper-map"><b>flipper-map</b></a>
+      <a href="https://github.com/Stichoza/flipper-map"><b>flipper-map</b> <img src="https://skillicons.dev/icons?i=vue,ts,js" height="16"></a>
     </td>
     <td width="55%">Visualize Flipper Zero signal recordings on an interactive map: <a href="https://flipper-map.stichoza.com">flipper-map.stichoza.com</a></td>
     <td width="20%">
@@ -115,7 +102,7 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://apps.apple.com/us/app/flipper-map/id6759526315"><b>Flipper Map</b></a> 
+      <a href="https://apps.apple.com/us/app/flipper-map/id6759526315"><b>Flipper Map</b> <img src="https://skillicons.dev/icons?i=apple,swift" height="16"></a>
     </td>
     <td width="55%">iOS/iPad/macOS version of Flipper Map with support of Apple Watch, CarPlay, Siri and Shortcuts. Packed with more features than web version.</td>
     <td width="20%">
