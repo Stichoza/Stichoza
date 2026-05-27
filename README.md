@@ -11,13 +11,13 @@
 <h2></h2>
 
 <h4 align="center">
-  <a href="stichoza-public-key.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GnuPG-Logo.svg/250px-GnuPG-Logo.svg.png" height="12"> PGP Public Key</a>
-  &bull;
-  <a href="https://stichoza.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Safari-icon-1024.png/500px-Safari-icon-1024.png" height="12"> Personal Website</a>
-  &bull;
-  <a href="http://stichoza34arztdqeis65bj5hqflzuxcw7iaues3lhv6dv35qe3rq6qd.onion/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/500px-Tor_Browser_icon.svg.png" height="12"> Onion Version</a>
-  &bull;
-  <a href="https://stichoza.eth"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ethereum_Logo.png/500px-Ethereum_Logo.png" height="12"> Web3 Version</a>
+  <a href="stichoza-public-key.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GnuPG-Logo.svg/250px-GnuPG-Logo.svg.png" height="14"> PGP Public Key</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://stichoza.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Safari-icon-1024.png/500px-Safari-icon-1024.png" height="14"> Personal Website</a>
+  &nbsp;&middot;&nbsp;
+  <a href="http://stichoza34arztdqeis65bj5hqflzuxcw7iaues3lhv6dv35qe3rq6qd.onion/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/500px-Tor_Browser_icon.svg.png" height="14"> Onion Version</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://stichoza.eth"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ethereum_Logo.png/500px-Ethereum_Logo.png" height="14"> Web3 Version</a>
 </h4>
 
 <h2></h2>
